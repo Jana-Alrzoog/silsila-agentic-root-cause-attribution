@@ -1,10 +1,19 @@
-# SILSILA
+<div align="center">
 
-### Evidence-Grounded Root-Cause Attribution & Verified Recovery for Multi-Agent Systems
+<h1>SILSILA</h1>
 
-**Know Who Broke the Chain. Prove Why. Recover Safely.**
+<h3>Evidence-Grounded Root-Cause Attribution &amp;<br>Verified Recovery for Multi-Agent Systems</h3>
 
-*An agentic reliability framework for tracing silent failures to their originating agent and execution step.*
+<p>
+  <strong>Know Who Broke the Chain. Prove Why. Recover Safely.</strong>
+</p>
+
+<p>
+  <em>An agentic reliability framework for tracing silent failures<br>
+  to their originating agent and execution step.</em>
+</p>
+
+</div>
 
 ---
 
